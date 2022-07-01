@@ -1,4 +1,4 @@
-# todolist
+# SQL Todo List
 Todo list app using express and mysql
 
 Todo card background color changes depending on urgency level
