@@ -2,7 +2,7 @@ const express = require("express");
 
 const router = express.Router();
 
-const db = require("./data/database");
+const db = require("../data/database");
 
 router.get("/", (req, res) => {
 	res.redirect("/todos");
